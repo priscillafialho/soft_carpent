@@ -5,3 +5,6 @@ Index File
 This is the file where all the observations are listed, core sample or not.
 
 It allows us to check which observations are censored and the censoring reason.
+Let's make some changes in this file too.
+
+
