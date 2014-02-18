@@ -8,3 +8,6 @@ It allows us to check which observations are censored and the censoring reason.
 Let's make some changes in this file too.
 
 Introduce a mistake...
+
+But now we make another change that is right and would like to keep in the future.
+
