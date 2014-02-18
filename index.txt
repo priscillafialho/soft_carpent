@@ -11,6 +11,6 @@ But now we make another change that is right and would like to keep in the futur
 
 Let's make some changes using the website interface in github.
 
-
+And now using the command line on my machine...
 
 
