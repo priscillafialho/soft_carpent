@@ -13,4 +13,5 @@ Let's make some changes using the website interface in github.
 
 And now using the command line on my machine...
 
-
+Ivana makes changes in index.txt
+bla bla
