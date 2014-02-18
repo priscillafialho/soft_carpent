@@ -1,0 +1,7 @@
+==========
+Index File
+==========
+
+This is the file where all the observations are listed, core sample or not.
+
+
